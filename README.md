@@ -1,6 +1,7 @@
 ## Hi there 👋
 # 
 
+
 # Bossola Yannick
 
 ## 🚀 A propos de moi
@@ -29,10 +30,10 @@ Après avoir commencé ma reconversion de manière autodidacte, j'ai suivi le cu
 
 Voici quelques réalisations frontend:
 
-![]([https://res.cloudinary.com/dagvnfbun/image/upload/c_fill,w_350/v1731921481/maquette_site_By_Orkblan_dddssk.png](https://res.cloudinary.com/dagvnfbun/image/upload/c_pad,b_gen_fill,w_350,h_500/v1731923889/Capture_d_%C3%A9cran_2024-11-18_105607_l8gd9a.png))
-![]([https://res.cloudinary.com/dagvnfbun/image/upload/c_fill,w_350/v1731923889/Capture_d_%C3%A9cran_2024-11-18_105607_l8gd9a.png](https://res.cloudinary.com/dagvnfbun/image/upload/c_pad,b_gen_fill,w_350,h_500/v1731921481/maquette_site_By_Orkblan_dddssk.png))
-![]([https://res.cloudinary.com/dagvnfbun/image/upload/c_fill,w_350/v1731921482/maquette_Run_yuhkxk.png](https://res.cloudinary.com/dagvnfbun/image/upload/c_pad,b_gen_fill,w_350,h_500/v1731921482/maquette_Run_yuhkxk.png))
-![]([https://res.cloudinary.com/dagvnfbun/image/upload/c_fill,w_350/v1731921471/maquette_Gaming_Campus_f6g9kx.png](https://res.cloudinary.com/dagvnfbun/image/upload/c_pad,b_gen_fill,w_350,h_500/v1731921471/maquette_Gaming_Campus_f6g9kx.png))
+![](https://res.cloudinary.com/dagvnfbun/image/upload/c_pad,b_gen_fill,w_350,h_500/v1731923889/Capture_d_%C3%A9cran_2024-11-18_105607_l8gd9a.png)
+![](https://res.cloudinary.com/dagvnfbun/image/upload/c_pad,b_gen_fill,w_350,h_500/v1731921481/maquette_site_By_Orkblan_dddssk.png)
+![](https://res.cloudinary.com/dagvnfbun/image/upload/c_pad,b_gen_fill,w_350,h_500/v1731921482/maquette_Run_yuhkxk.png)
+![](https://res.cloudinary.com/dagvnfbun/image/upload/c_pad,b_gen_fill,w_350,h_500/v1731921471/maquette_Gaming_Campus_f6g9kx.png)
 
 ## 🔗 Links
 
@@ -41,17 +42,3 @@ Voici quelques réalisations frontend:
 bossolay@hotmail.fr
 
 
-<!--
-**Bossola-Yannick/Bossola-Yannick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
