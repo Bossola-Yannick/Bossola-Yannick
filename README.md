@@ -37,6 +37,7 @@ Après avoir commencé ma reconversion de manière autodidacte, j'ai suivi le cu
 
 bossolay@hotmail.fr
 
+
 ----
 
 <div class="text-right> 
@@ -44,4 +45,8 @@ bossolay@hotmail.fr
     <img src="https://komarev.com/ghpvc/?username=Bossola-Yannick">
   </a>
   <a href="https://github.com/Bossola-Yannick?tab=followers" align=right"><img src="https://img.shields.io/github/followers/Bossola-Yannick?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&section=footer">
 </div>
