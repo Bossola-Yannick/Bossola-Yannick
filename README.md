@@ -1,6 +1,6 @@
 
 <h1 align="center">Bossola Yannick</h1>
-<img src="https://res.cloudinary.com/dagvnfbun/image/upload/b_rgb:333B4C/c_crop,ar_1:1/v1731919163/photo_profil_iusfgg.png" align="center"> 
+
 ## 🚀 A propos de moi
 Développeur Web et Web Mobile Fullstack.
 
