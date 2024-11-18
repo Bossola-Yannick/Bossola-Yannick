@@ -39,7 +39,11 @@ Voici quelques réalisations frontend:
 
 bossolay@hotmail.fr
 
-<a href="https://github.com/Bossola-Yannick/github-profile-views-counter">
+----
+
+<div class="text-right> 
+  <a href="https://github.com/Bossola-Yannick/github-profile-views-counter" align="right">
     <img src="https://komarev.com/ghpvc/?username=Bossola-Yannick">
-</a>
-<a href="https://github.com/Bossola-Yannick?tab=followers"><img src="https://img.shields.io/github/followers/Bossola-Yannick?label=Followers&style=social" alt="GitHub Badge"></a>
+  </a>
+  <a href="https://github.com/Bossola-Yannick?tab=followers" align=right"><img src="https://img.shields.io/github/followers/Bossola-Yannick?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
