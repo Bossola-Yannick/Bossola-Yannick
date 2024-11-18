@@ -26,8 +26,6 @@ Après avoir commencé ma reconversion de manière autodidacte, j'ai suivi le cu
 
 ## Réalisation
 
-Voici quelques réalisations frontend:
-
 ![](https://res.cloudinary.com/dagvnfbun/image/upload/c_pad,b_gen_fill,w_350,h_500/v1731923889/Capture_d_%C3%A9cran_2024-11-18_105607_l8gd9a.png "accessible à l'adresse: www.omydog.org")
 ![](https://res.cloudinary.com/dagvnfbun/image/upload/c_pad,b_gen_fill,w_350,h_500/v1731921481/maquette_site_By_Orkblan_dddssk.png)
 ![](https://res.cloudinary.com/dagvnfbun/image/upload/c_pad,b_gen_fill,w_350,h_500/v1731921482/maquette_Run_yuhkxk.png)
