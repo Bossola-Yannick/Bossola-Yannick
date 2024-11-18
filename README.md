@@ -1,5 +1,6 @@
-
-<h1 align="center">Bossola Yannick</h1>
+<div align="center" class="w-100">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=Bossola%20Yannick&reversal=false&textBg=false&fontColor=07af82&fontAlign=49&animation=scaleIn&descAlignY=54&fontAlignY=34&stroke=57eb73&strokeWidth=2&section=header&desc=Développeur%20Web%20et%20Web%20Mobile&descAlign=49">
+</div>
 
 ## 🚀 A propos de moi
 Développeur Web et Web Mobile Fullstack.
@@ -32,10 +33,13 @@ Voici quelques réalisations frontend:
 ![](https://res.cloudinary.com/dagvnfbun/image/upload/c_pad,b_gen_fill,w_350,h_500/v1731921482/maquette_Run_yuhkxk.png)
 ![](https://res.cloudinary.com/dagvnfbun/image/upload/c_pad,b_gen_fill,w_350,h_500/v1731921471/maquette_Gaming_Campus_f6g9kx.png)
 
-## 🔗 Links
+## 🔗 Me contacter
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannick-bossola)
 
 bossolay@hotmail.fr
 
-
+<a href="https://github.com/Bossola-Yannick/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Bossola-Yannick">
+</a>
+<a href="https://github.com/Bossola-Yannick?tab=followers"><img src="https://img.shields.io/github/followers/Bossola-Yannick?label=Followers&style=social" alt="GitHub Badge"></a>
