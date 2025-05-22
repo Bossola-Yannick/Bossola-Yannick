@@ -44,6 +44,8 @@ bossolay@hotmail.fr
 
 ----
 
+## 🔗 Mes Stats Github
+
 <div class="text-right> 
   <a href="https://github.com/Bossola-Yannick/github-profile-views-counter" align="right">
     <img src="https://komarev.com/ghpvc/?username=Bossola-Yannick">
