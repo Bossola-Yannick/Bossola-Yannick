@@ -38,6 +38,7 @@ Après avoir commencé ma reconversion de manière autodidacte, j'ai suivi le cu
 
 bossolay@hotmail.fr
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Bossola-Yannick=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 
