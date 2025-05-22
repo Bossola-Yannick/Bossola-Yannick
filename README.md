@@ -38,7 +38,7 @@ Après avoir commencé ma reconversion de manière autodidacte, j'ai suivi le cu
 
 bossolay@hotmail.fr
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bossola-Yannick)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bossola-Yannick&theme=black-ice)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bossola-Yannick&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
 
 ----
