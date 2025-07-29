@@ -13,7 +13,7 @@ Après avoir commencé ma reconversion de manière autodidacte, j'ai suivi le cu
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,sass,)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize,py,java)](https://skillicons.dev)
 
 ### Utilitaire
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vite,pnpm,npm)](https://skillicons.dev)
