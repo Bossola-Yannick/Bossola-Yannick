@@ -42,7 +42,7 @@ bossolay@hotmail.fr
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bossola-Yannick&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bossola-Yannick&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bossola-Yannick&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bossola-Yannick&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
 
 ----
 
