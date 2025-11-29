@@ -40,7 +40,7 @@ bossolay@hotmail.fr
 
 ## 🔗 Mes Stats Github
 
-![Stats](https://github-readme-stats-b0tb04cd7-orkblans-projects.vercel.app/api?username=Bossola-Yannick&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
+<img width="462" height="189" alt="githubStats" src="https://github.com/user-attachments/assets/16c214b9-e79d-4a74-9bfe-c097533fc0d7" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bossola-Yannick&theme=black-ice&hide_border=true">
 <img width="298" height="158" alt="mostLanguage" src="https://github.com/user-attachments/assets/723a93e0-3f23-4bd7-90c7-17bd5a701610" />
 
